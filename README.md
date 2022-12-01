@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis-on-Financial-Services
 ![alt text](https://github.com/shubhamringole/Exploratory-Data-Analysis-on-Financial-Services/blob/main/Dashboard%201%20(1).png)
+Datset LINK-https://www.kaggle.com/datasets/singole/bank-defaulter-cleandata
 
 Aim: To give an idea of applying EDA in a real business scenario. In this case study, we will develop a basic understanding of business analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
